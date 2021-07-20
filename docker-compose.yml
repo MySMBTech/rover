@@ -19,9 +19,11 @@ services:
         - versionKubectl
         - versionGit
         - versionTflint
+        - versionTflintazrs
         - versionJq
         - versionDockerCompose
         - versionTfsec
+        - versionVault
         - versionTerraformDocs
         - versionAnsible
         - versionPacker
